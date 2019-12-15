@@ -25,7 +25,7 @@ public class Lambda {
 		long stop = System.currentTimeMillis();
 		long millis = stop - start;
 
-		Assert.assertTrue("Duration was too short: " + millis + "ms", millis > 10);
+		Assert.assertTrue("Duration was not taking longer than 10 ms: " + millis + "ms", millis >= 10);
 	}
 
 	private Integer add(Stream<Integer> stream) {
