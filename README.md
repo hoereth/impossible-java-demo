@@ -9,4 +9,5 @@ For every **Demo.java** file there is a **DemoSolution.java** file. The **Demo.j
 ## Contents
 
 * [Equality](src/test/java/info/hoereth/impossible/Equality.java) 
+* [Lambda](src/test/java/info/hoereth/impossible/Lambda.java) 
 * [Strings](src/test/java/info/hoereth/impossible/Strings.java)
