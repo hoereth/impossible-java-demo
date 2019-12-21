@@ -22,6 +22,7 @@ public class EqualitySolution {
 		i = 20;
 		j = 20;
 
+		System.out.println("integer identity has codes:");
 		System.out.println("i: " + System.identityHashCode(i) + ", j: " + System.identityHashCode(j));
 
 		Assert.assertTrue(i.equals(j));
