@@ -16,9 +16,9 @@ public class EqualsOverwriteSolution {
 	 * whereas the hashCode method should be cheap. The HashSet only calculates the
 	 * hashCode initially. If this is different to all other elements' hashCodes,
 	 * the object will be added. Only if there is a "hashCode collision", an equals
-	 * comparison must be performed to double check equality. But only for those two objects with equal hash
-	 * codes. You can see how this boosts the performance, but can only work for
-	 * valid "equals/hashCode" implementations.
+	 * comparison must be performed to double check equality. But only for those two
+	 * objects with equal hash codes. You can see how this boosts the performance,
+	 * but can only work for valid "equals/hashCode" implementations.
 	 */
 	@Test
 	public void add_to_hashset() {
