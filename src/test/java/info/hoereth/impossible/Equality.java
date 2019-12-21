@@ -3,6 +3,8 @@ package info.hoereth.impossible;
 import org.junit.Assert;
 import org.junit.Test;
 
+import info.hoereth.impossible.solution.EqualitySolution;
+
 public class Equality {
 
 	/**

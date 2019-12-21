@@ -1,4 +1,4 @@
-package info.hoereth.impossible;
+package info.hoereth.impossible.solution;
 
 import org.junit.Assert;
 import org.junit.Test;

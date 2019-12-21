@@ -1,4 +1,4 @@
-package info.hoereth.impossible;
+package info.hoereth.impossible.solution;
 
 import java.util.ArrayList;
 import java.util.List;

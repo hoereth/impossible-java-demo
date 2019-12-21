@@ -7,6 +7,8 @@ import java.util.stream.Stream;
 import org.junit.Assert;
 import org.junit.Test;
 
+import info.hoereth.impossible.solution.LambdaSolution;
+
 public class Lambda {
 	/**
 	 * This test effectively measures the addition of two numbers. Why is it
