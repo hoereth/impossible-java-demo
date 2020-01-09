@@ -1,4 +1,4 @@
-# Impossible Java Demo
+# ⁉️ Impossible Java Demo
 
 This is a collection of Java examples which seem "impossible". It's about common pitfalls and edge cases. 
 
